@@ -1,0 +1,375 @@
+[{
+  "_id": {
+    "$oid": "62b7349a99b350d7184bd362"
+  },
+  "title": "Тестовая задача 1",
+  "description": "Автоматически генерируемое описание для карточек",
+  "content": "{\"time\":1556098174501,\"blocks\":[{\"type\":\"header\",\"data\":{\"text\":\"Напишите здесь название\",\"level\":2}},{\"type\":\"paragraph\",\"data\":{\"text\":\"И добавьте немного текста\"}},{\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, <code class=\\\"inline-code\\\">третье</code>\"]}}],\"version\":\"2.16.1\"}",
+  "category": "Системное",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656173478624"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1658761200000"
+    }
+  },
+  "status": "published",
+  "members": [
+    "596687383"
+  ],
+  "tags": [
+    "Test 1",
+    "Test 2"
+  ]
+},{
+  "_id": {
+    "$oid": "62b7349a99b350d7184bd363"
+  },
+  "title": "Тестовая задача 2",
+  "description": "Автоматически генерируемое описание для карточек",
+  "content": "{\"time\":1556098174501,\"blocks\":[{\"type\":\"header\",\"data\":{\"text\":\"Напишите здесь название\",\"level\":2}},{\"type\":\"paragraph\",\"data\":{\"text\":\"И добавьте немного текста\"}},{\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, <code class=\\\"inline-code\\\">третье</code>\"]}}],\"version\":\"2.16.1\"}",
+  "category": "test",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656173478624"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1655305200000"
+    }
+  },
+  "status": "published",
+  "members": [],
+  "tags": [
+    "Test 1"
+  ]
+},{
+  "_id": {
+    "$oid": "62b7349a99b350d7184bd364"
+  },
+  "title": "Тестовая задача 3",
+  "description": "Автоматически генерируемое описание для карточек",
+  "content": "{\"time\":1556098174501,\"blocks\":[{\"type\":\"header\",\"data\":{\"text\":\"Напишите здесь название\",\"level\":2}},{\"type\":\"paragraph\",\"data\":{\"text\":\"И добавьте немного текста\"}},{\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, <code class=\\\"inline-code\\\">третье</code>\"]}}],\"version\":\"2.16.1\"}",
+  "category": "Системное",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653495078624"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1656169200000"
+    }
+  },
+  "status": "published",
+  "members": [
+    "596687383"
+  ],
+  "tags": [
+    "Test 2"
+  ]
+},{
+  "_id": {
+    "$oid": "62b7349a99b350d7184bd365"
+  },
+  "title": "Тестовая задача 4",
+  "description": "Автоматически генерируемое описание для карточек",
+  "content": "{\"time\":1556098174501,\"blocks\":[{\"type\":\"header\",\"data\":{\"text\":\"Напишите здесь название\",\"level\":2}},{\"type\":\"paragraph\",\"data\":{\"text\":\"И добавьте немного текста\"}},{\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, <code class=\\\"inline-code\\\">третье</code>\"]}}],\"version\":\"2.16.1\"}",
+  "category": "Системное",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656173478624"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1658761200000"
+    }
+  },
+  "status": "published",
+  "members": [
+    "596687383"
+  ],
+  "tags": []
+},{
+  "_id": {
+    "$oid": "62b7349a99b350d7184bd366"
+  },
+  "title": "Тестовая задача 5",
+  "description": "Автоматически генерируемое описание для карточек",
+  "content": "{\"time\":1556098174501,\"blocks\":[{\"type\":\"header\",\"data\":{\"text\":\"Напишите здесь название\",\"level\":2}},{\"type\":\"paragraph\",\"data\":{\"text\":\"И добавьте немного текста\"}},{\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, <code class=\\\"inline-code\\\">третье</code>\"]}}],\"version\":\"2.16.1\"}",
+  "category": "categorytest",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656173478624"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1661439600000"
+    }
+  },
+  "status": "published",
+  "members": [
+    "596687383"
+  ],
+  "tags": [
+    "Test 1",
+    "Test 2",
+    "TAGTEST"
+  ]
+},{
+  "_id": {
+    "$oid": "62b7349a99b350d7184bd367"
+  },
+  "title": "Тестовая задача 6",
+  "description": "Автоматически генерируемое описание для карточек",
+  "content": "{\"time\":1556098174501,\"blocks\":[{\"type\":\"header\",\"data\":{\"text\":\"Напишите здесь название\",\"level\":2}},{\"type\":\"paragraph\",\"data\":{\"text\":\"И добавьте немного текста\"}},{\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, <code class=\\\"inline-code\\\">третье</code>\"]}}],\"version\":\"2.16.1\"}",
+  "category": "Системное",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656173478624"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1658761200000"
+    }
+  },
+  "status": "published",
+  "members": [],
+  "tags": [
+    "Test 1",
+    "Test 2"
+  ]
+},{
+  "_id": {
+    "$oid": "62b7349a99b350d7184bd368"
+  },
+  "title": "Тестовая задача 7",
+  "description": "Автоматически генерируемое описание для карточек",
+  "content": "{\"time\":1556098174501,\"blocks\":[{\"type\":\"header\",\"data\":{\"text\":\"Тестовая задача 7\",\"level\":2}},{\"type\":\"paragraph\",\"data\":{\"text\":\"И добавьте немного текста\"}},{\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, <code class=\\\"inline-code\\\">третье</code>\"]}}],\"version\":\"2.16.1\"}",
+  "category": "Системное",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656173478624"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1658761200000"
+    }
+  },
+  "status": "published",
+  "members": [],
+  "tags": [
+    "Test 1",
+    "Test 2"
+  ]
+},{
+  "_id": {
+    "$oid": "62b7349a99b350d7184bd369"
+  },
+  "title": "Тестовая задача 8",
+  "description": "Автоматически генерируемое описание для карточек",
+  "content": "{\"time\":1556098174501,\"blocks\":[{\"type\":\"header\",\"data\":{\"text\":\"Напишите здесь название\",\"level\":2}},{\"type\":\"paragraph\",\"data\":{\"text\":\"И добавьте немного текста\"}},{\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, <code class=\\\"inline-code\\\">третье</code>\"]}}],\"version\":\"2.16.1\"}",
+  "category": "Системное",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656173478624"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1658761200000"
+    }
+  },
+  "status": "published",
+  "members": [
+    "596687383"
+  ],
+  "tags": [
+    "Test 1",
+    "Test 2"
+  ]
+},{
+  "_id": {
+    "$oid": "62b7349a99b350d7184bd36a"
+  },
+  "title": "Тестовая задача 9",
+  "description": "Автоматически генерируемое описание для карточек",
+  "content": "{\"time\":1556098174501,\"blocks\":[{\"type\":\"header\",\"data\":{\"text\":\"Напишите здесь название\",\"level\":2}},{\"type\":\"paragraph\",\"data\":{\"text\":\"И добавьте немного текста\"}},{\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, <code class=\\\"inline-code\\\">третье</code>\"]}}],\"version\":\"2.16.1\"}",
+  "category": "Системное",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656173478624"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1658761200000"
+    }
+  },
+  "status": "published",
+  "members": [
+    "596687383"
+  ],
+  "tags": [
+    "Test 1",
+    "Test 2"
+  ]
+},{
+  "_id": {
+    "$oid": "62b7349a99b350d7184bd36b"
+  },
+  "title": "Тестовая задача 10",
+  "description": "Автоматически генерируемое описание для карточек",
+  "content": "{\"time\":1556098174501,\"blocks\":[{\"type\":\"header\",\"data\":{\"text\":\"Напишите здесь название\",\"level\":2}},{\"type\":\"paragraph\",\"data\":{\"text\":\"И добавьте немного текста\"}},{\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, <code class=\\\"inline-code\\\">третье</code>\"]}}],\"version\":\"2.16.1\"}",
+  "category": "categorytest",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656173478624"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1658761200000"
+    }
+  },
+  "status": "published",
+  "members": [
+    "596687383"
+  ],
+  "tags": [
+    "Test 1",
+    "Test 2"
+  ]
+},{
+  "_id": {
+    "$oid": "62b7349a99b350d7184bd36c"
+  },
+  "title": "Тестовая задача 11",
+  "description": "Автоматически генерируемое описание для карточек",
+  "content": "{\"time\":1556098174501,\"blocks\":[{\"type\":\"header\",\"data\":{\"text\":\"Напишите здесь название\",\"level\":2}},{\"type\":\"paragraph\",\"data\":{\"text\":\"И добавьте немного текста\"}},{\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, <code class=\\\"inline-code\\\">третье</code>\"]}}],\"version\":\"2.16.1\"}",
+  "category": "Системное",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656173478624"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1658761200000"
+    }
+  },
+  "status": "published",
+  "members": [
+    "596687383"
+  ],
+  "tags": [
+    "Test 1",
+    "Test 2"
+  ]
+},{
+  "_id": {
+    "$oid": "62b7349a99b350d7184bd36d"
+  },
+  "title": "Тестовая задача 12",
+  "description": "Автоматически генерируемое описание для карточек",
+  "content": "{\"time\":1556098174501,\"blocks\":[{\"type\":\"header\",\"data\":{\"text\":\"Напишите здесь название\",\"level\":2}},{\"type\":\"paragraph\",\"data\":{\"text\":\"И добавьте немного текста\"}},{\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, <code class=\\\"inline-code\\\">третье</code>\"]}}],\"version\":\"2.16.1\"}",
+  "category": "Системное",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656173478624"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1658761200000"
+    }
+  },
+  "status": "archived",
+  "members": [],
+  "tags": [
+    "Test 1",
+    "Test 2"
+  ]
+},{
+  "_id": {
+    "$oid": "62b7349a99b350d7184bd36e"
+  },
+  "title": "Тестовая задача - Черновик",
+  "description": "Автоматически генерируемое описание для карточек",
+  "content": "{\"time\":1556098174501,\"blocks\":[{\"type\":\"header\",\"data\":{\"text\":\"Напишите здесь название\",\"level\":2}},{\"type\":\"paragraph\",\"data\":{\"text\":\"И добавьте немного текста\"}},{\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, <code class=\\\"inline-code\\\">третье</code>\"]}}],\"version\":\"2.16.1\"}",
+  "category": "Системное",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656173478624"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1658761200000"
+    }
+  },
+  "status": "draft",
+  "members": [
+    "596687383"
+  ],
+  "tags": [
+    "Test 1",
+    "Test 2"
+  ]
+},{
+  "_id": {
+    "$oid": "62ba5d0c5be805fc40ffca76"
+  },
+  "__v": 0,
+  "category": "test",
+  "content": "{\"time\":1656380714107,\"blocks\":[{\"id\":\"nEY-0J2xwc\",\"type\":\"header\",\"data\":{\"text\":\"Добавьте заголовок\",\"level\":2}},{\"id\":\"EogU4ZS2-D\",\"type\":\"paragraph\",\"data\":{\"text\":\"И немного текста\"}},{\"id\":\"K8kjHluqc4\",\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"id\":\"CdHm7pRsML\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, третье\"]}}],\"version\":\"2.25.0\"}",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656380714108"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1656374400000"
+    }
+  },
+  "description": "И немного текста",
+  "members": [],
+  "status": "draft",
+  "tags": [
+    "CCC"
+  ],
+  "title": "Проверка"
+},{
+  "_id": {
+    "$oid": "62bac59f488bca1c24ff73ac"
+  },
+  "__v": 0,
+  "category": "test",
+  "content": "{\"time\":1656408125210,\"blocks\":[{\"id\":\"BculL1_5w2\",\"type\":\"header\",\"data\":{\"text\":\"Проверка\",\"level\":2}},{\"id\":\"vKIcsWeBsQ\",\"type\":\"paragraph\",\"data\":{\"text\":\"И немного текста\"}},{\"id\":\"ik48bAGj7a\",\"type\":\"header\",\"data\":{\"text\":\"Заголовок списка\",\"level\":3}},{\"id\":\"gZvr1BvbRU\",\"type\":\"list\",\"data\":{\"style\":\"unordered\",\"items\":[\"Первое\",\"Второе\",\"И главное, третье\"]}}],\"version\":\"2.25.0\"}",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1656408125211"
+    }
+  },
+  "deadline": {
+    "$date": {
+      "$numberLong": "1656547200000"
+    }
+  },
+  "description": "И немного текста",
+  "members": [],
+  "status": "archived",
+  "tags": [
+    "Санкт-Петербург"
+  ],
+  "title": "Проверка"
+}]
